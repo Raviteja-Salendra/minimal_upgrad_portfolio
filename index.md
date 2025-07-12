@@ -10,17 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Gamified Student LMS
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Incorporate Gamification Elements: Seamlessly integrate points, badges, and leaderboards into the LMS for a captivating
+experience and implement stringent security measures to safeguard student data and privacy.
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Real Estate Portfolio Management
+Enhanced a user-friendly, responsive real estate application using the MERN stack, incorporating Google authentication via Firebase for seamless user login. Applied features for users to create listings and integrated a search bar functionality, allowing efficient browsing of al listings.
 
-### Header 3
+### Dog Breed Identification
 
 ```js
 // Javascript code with syntax highlighting.
@@ -37,26 +36,30 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Key Skills and Interests
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Proficient in Python, Java, and SQL for building data-driven solutions.
+*   Experienced in Machine Learning and Deep Learning for classification, regression, and NLP.
+*   Strong background in data preprocessing, feature engineering, and model evaluation.
+*   Familiar with tools like Jupyter, Git, Scikit-learn, TensorFlow, and Pandas.
+*   Passionate about using data to solve real-world problems and optimize decision-making.
 
-##### Header 5
+##### Certifications & Achievements
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Completed "Machine Learning" by Stanford University (Coursera) – taught by Andrew Ng.
+2.  Secured top 5% in the Kaggle "Titanic" ML competition.
+3.  Winner of the Techsavishkaar 2.0 Hackathon – Smart Education Domain (2024).
+4.  Selected for the Atlan Engineering Fellowship Program - 2024.
+5.  Published multiple data science projects via GitHub Pages for public portfolio.
+   
+###### Tech Stack Comparison Table
 
-###### Header 6
-
-| head1        | head two          | three |
+| Language/Tool|  Use Case         | Rating|
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Python       | Machine learning  | 5     |
+| Java         | BackendDevelopment| 5     |
+| JavaScript   | Full Stack        | 4     |  
+| Docker       | Containerization  | 5     |
 
 ### There's a horizontal rule below this.
 
@@ -64,33 +67,35 @@ end
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   Built and deployed 6+ data science projects on GitHub Pages
+*   Designed REST APIs in Spring Boot and Node.js
+*   Created dashboards and visualizations for real-world datasets
+*   Regularly participate in online coding platforms (LeetCode, Codeforces)
+*   Conducted peer-to-peer sessions on ML algorithms
+
 
 ### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1.  Brainstorm the project idea
+2.  Collect and clean the dataset
+3.  Perform Exploratory Data Analysis (EDA)
+4.  Build and validate ML models
+5.  Deploy on GitHub Pages or render on Streamlit
 
 ### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- Areas of Interest:
+  - Machine Learning
+  - Deep Learning
+    - CNNs for image classification
+    - LSTMs for sequence modeling
+  - Backend Engineering
+    - RESTful API Development
+    - Database Design & Optimization
+- Projects in Progress:
+  - Container terminal operation time prediction
+  - Adversarial testing on cloud workload forecasting models
+  - Real-time fuel consumption prediction using ML
 
 ### Small image
 
